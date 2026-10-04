@@ -79,7 +79,7 @@
       "contact": "",
       "description": "Summer comes early with three fireworks happening back to back – one even has an extra drone show. Here are the details",
       "end_dt": null,
-      "first_seen": "2026-10-04T12:34:22.093097",
+      "first_seen": "2026-10-04T17:00:59.056111",
       "id": "019bff1f6a8370f2",
       "lat": null,
       "lng": null,
@@ -321,7 +321,7 @@
       "contact": "",
       "description": "Enjoy Kyoto's iconic summer float parades in comfort: seats from ¥6,000, with upper tiers offering English live commentary",
       "end_dt": null,
-      "first_seen": "2026-10-04T12:34:22.093097",
+      "first_seen": "2026-10-04T17:00:59.056111",
       "id": "0e983401d6ac2cbe",
       "lat": null,
       "lng": null,
@@ -560,81 +560,6 @@
       ],
       "title": "🍻OSAKA Voyager🍸ALL U CAN DRINK🍺Hang out Night Club Friending Meetup Osaka 大阪 友達作り",
       "url": "https://www.welcometokyoevents.com/events/osaka-voyager-all-u-can-drink-hang-out-night-club-friending-meetup-osaka-da-ban-you-da-zuori-2026-10-05-22-30",
-      "venue": "Osaka Voyager Stand ボヤジャースタンド"
-    },
-    "1763f3e8acfab0d4": {
-      "address": {
-        "city": "大阪市",
-        "country": "JP",
-        "countryFullname": "日本",
-        "formattedAddress": "Japan, 〒542-0071 Osaka, Chuo Ward, Dōtonbori, 2-chōme−3−２９ ニュージャパン角ビル 6F",
-        "geocode": {
-          "latitude": 34.6685723,
-          "longitude": 135.4992319
-        },
-        "postalCode": "542-0071",
-        "streetAddress": {
-          "apt": "6f",
-          "name": "２丁目",
-          "number": "３"
-        },
-        "subdivision": "27",
-        "subdivisions": [
-          {
-            "code": "27",
-            "name": "大阪府",
-            "type": 1
-          },
-          {
-            "code": "大阪市",
-            "name": "大阪市",
-            "type": 3
-          },
-          {
-            "code": "中央区",
-            "name": "中央区",
-            "type": 4
-          },
-          {
-            "code": "２丁目",
-            "name": "２丁目",
-            "type": 5
-          },
-          {
-            "code": "JP",
-            "name": "日本",
-            "type": 6
-          }
-        ]
-      },
-      "attendee_count": 0,
-      "category": "language_exchange",
-      "contact": "",
-      "description": "Plz show the ticket to the reception\n🌟イベント紹介 / Event Introduction\n🎉大阪・難波のナイトクラブで開催される、国際交流パーティー！\n外国人も日本人も大歓迎！英語や他の言語を使って、気軽に楽しく会話しながら交流できます。\nドリンク片手にゲームや音楽を楽しみながら、新しい友達を作ろう！\n\nJoin our International Night Party in the heart of Osaka! 🌍\nMeet locals & internationals, enjoy fun games, unlimited drinks",
-      "end_dt": "2026-10-02T17:00:00+00:00",
-      "first_seen": "2026-10-02T05:50:40.451201",
-      "id": "1763f3e8acfab0d4",
-      "lat": 34.6685723,
-      "lng": 135.4992319,
-      "major": false,
-      "matched": [
-        "language_exchange",
-        "nightlife"
-      ],
-      "notified": {
-        "day_before": true,
-        "intraday": true
-      },
-      "price": "unknown",
-      "score": 6.0,
-      "source": "wixevents",
-      "start_dt": "2026-10-02T13:30:00+00:00",
-      "tags": [
-        "wixevents",
-        "international"
-      ],
-      "title": "🍻OSAKA Voyager🍸ALL U CAN DRINK🍺Hang out Night Club Friending Meetup Osaka 大阪 友達作り",
-      "url": "https://www.welcometokyoevents.com/events/osaka-voyager-all-u-can-drink-hang-out-night-club-friending-meetup-osaka-da-ban-you-da-zuori-2026-10-02-22-30",
       "venue": "Osaka Voyager Stand ボヤジャースタンド"
     },
     "17d34c926d30f36f": {
@@ -1789,7 +1714,7 @@
       "contact": "",
       "description": "Skip the crowds and the waiting – get the best views of the thrilling procession this September with seats from ¥3,300",
       "end_dt": null,
-      "first_seen": "2026-10-04T12:34:22.093097",
+      "first_seen": "2026-10-04T17:00:59.056111",
       "id": "4a856dcaa08f9ec3",
       "lat": null,
       "lng": null,
@@ -1811,79 +1736,6 @@
       "title": "Enjoy Osaka’s Kishiwada Danjiri Festival stress-free with paid seating",
       "url": "https://www.timeout.com/osaka/news/enjoy-osakas-kishiwada-danjiri-festival-stress-free-with-paid-seating-070626",
       "venue": ""
-    },
-    "4c1a06119884fd1e": {
-      "address": {
-        "city": "渋谷区",
-        "country": "JP",
-        "countryFullname": "日本",
-        "formattedAddress": "Japan, 〒550-0014 Osaka, Nishi Ward, Kitahorie, 1-chōme−2−２７ B1",
-        "geocode": {
-          "latitude": 34.6733348,
-          "longitude": 135.4971292
-        },
-        "postalCode": "150-0043",
-        "streetAddress": {
-          "apt": "3f",
-          "name": "１丁目",
-          "number": "３"
-        },
-        "subdivisions": [
-          {
-            "code": "東京都",
-            "name": "東京都",
-            "type": 1
-          },
-          {
-            "code": "渋谷区",
-            "name": "渋谷区",
-            "type": 3
-          },
-          {
-            "code": "",
-            "name": "",
-            "type": 4
-          },
-          {
-            "code": "１丁目",
-            "name": "１丁目",
-            "type": 5
-          },
-          {
-            "code": "JP",
-            "name": "日本",
-            "type": 6
-          }
-        ]
-      },
-      "attendee_count": 0,
-      "category": "language_exchange",
-      "contact": "",
-      "description": "Looking for an international party in Osaka?\nJoin our Mingle & Social event in Shinsaibashi — a fun, English-friendly meetup for locals and travelers in their 20s and 30s. Meet new people, enjoy drinks, play games, and connect with others!",
-      "end_dt": "2026-10-02T13:00:00+00:00",
-      "first_seen": "2026-10-02T05:50:40.451201",
-      "id": "4c1a06119884fd1e",
-      "lat": 34.6733348,
-      "lng": 135.4971292,
-      "major": false,
-      "matched": [
-        "language_exchange",
-        "nightlife"
-      ],
-      "notified": {
-        "day_before": true
-      },
-      "price": "unknown",
-      "score": 6.0,
-      "source": "wixevents",
-      "start_dt": "2026-10-02T10:30:00+00:00",
-      "tags": [
-        "wixevents",
-        "international"
-      ],
-      "title": "🍻 Osaka 20s & 30s International Party in Shinsaibashi  🤩 大阪 国際交流パーティー 心斎橋",
-      "url": "https://www.welcometokyoevents.com/events/osaka-20s-30s-international-party-in-shinsaibashi-da-ban-guo-ji-jiao-liupati-xin-zhai-qiao-2026-10-02-19-30",
-      "venue": "Absinthe Underground, Shinsaibashi"
     },
     "4c8850c22d0a19db": {
       "address": {
@@ -2106,7 +1958,7 @@
       "contact": "",
       "description": "Umeda Yukata Festival runs for three weeks in July, but don’t miss the street party at Umekita Plaza on July 10 and 11",
       "end_dt": null,
-      "first_seen": "2026-10-04T12:34:22.093097",
+      "first_seen": "2026-10-04T17:00:59.056111",
       "id": "55ceb1cf6d8bb36f",
       "lat": null,
       "lng": null,
@@ -2620,7 +2472,9 @@
         "language_exchange",
         "nightlife"
       ],
-      "notified": {},
+      "notified": {
+        "day_before": true
+      },
       "price": "unknown",
       "score": 6.0,
       "source": "wixevents",
@@ -2997,7 +2851,7 @@
       "contact": "",
       "description": "The newly increased accommodation tax in Kyoto went into effect on March 1, making it the highest tourist tax in Japan",
       "end_dt": null,
-      "first_seen": "2026-10-04T12:34:22.093097",
+      "first_seen": "2026-10-04T17:00:59.056111",
       "id": "6b3f2f627822f165",
       "lat": null,
       "lng": null,
@@ -3027,7 +2881,7 @@
       "contact": "",
       "description": "What’s on in Kyoto this year: geisha dance festival, immersive art in a plum garden, rare temple openings, exhibitions and more",
       "end_dt": null,
-      "first_seen": "2026-10-04T12:34:22.093097",
+      "first_seen": "2026-10-04T17:00:59.056111",
       "id": "6c1b9f13ced07689",
       "lat": null,
       "lng": null,
@@ -3702,7 +3556,7 @@
       "contact": "",
       "description": "From global icons to boundary-pushing newcomers, this year’s edition turns the idea of the ‘edge’ into something vividly, urgently human",
       "end_dt": null,
-      "first_seen": "2026-10-04T12:34:22.093097",
+      "first_seen": "2026-10-04T17:00:59.056111",
       "id": "772e32320749e51b",
       "lat": null,
       "lng": null,
@@ -4353,7 +4207,9 @@
       "matched": [
         "language_exchange"
       ],
-      "notified": {},
+      "notified": {
+        "day_before": true
+      },
       "price": "unknown",
       "score": 4.0,
       "source": "wixevents",
@@ -6087,7 +5943,7 @@
       "contact": "",
       "description": "The vibrant colours along this iconic spring hiking trail will reach peak bloom from late April through Golden Week 2026",
       "end_dt": null,
-      "first_seen": "2026-10-04T12:34:22.093097",
+      "first_seen": "2026-10-04T17:00:59.056111",
       "id": "b3b18cf2cd594ee7",
       "lat": null,
       "lng": null,
@@ -6407,7 +6263,7 @@
       "contact": "",
       "description": "At Kyoto Kameoka Balloon Festival 2026, take a hot air balloon ride and enjoy a nighttime light-up amid cherry blossoms",
       "end_dt": null,
-      "first_seen": "2026-10-04T12:34:22.093097",
+      "first_seen": "2026-10-04T17:00:59.056111",
       "id": "bd5d58c8ca92ae21",
       "lat": null,
       "lng": null,
@@ -7870,7 +7726,7 @@
       "contact": "",
       "description": "ReCase will pick up your luggage from hotels and homes in Japan, and upcycle it for reuse to help reduce waste",
       "end_dt": null,
-      "first_seen": "2026-10-04T12:34:22.093097",
+      "first_seen": "2026-10-04T17:00:59.056111",
       "id": "ffdde645fe4a4be6",
       "lat": null,
       "lng": null,
@@ -7896,9 +7752,9 @@
   },
   "geocode_cache": {},
   "going": {},
-  "last_collect_utc": "2026-10-04T21:34:17.699887+09:00",
+  "last_collect_utc": "2026-10-05T02:00:51.506701+09:00",
   "last_digest_date": "2026-10-04",
-  "last_run_utc": "2026-10-04T12:34:22.110479",
+  "last_run_utc": "2026-10-04T17:00:59.066232",
   "telegram_offset": 553063840,
   "version": 1
 }
